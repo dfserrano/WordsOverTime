@@ -1,5 +1,6 @@
 WordsOverTime
 =================
+199.116.235.204/words
 
 WordsOverTime is a CMPUT 401 project that involves running a series of requests over a database that stores
 several articles, and outputting the results of those requests to the user.
